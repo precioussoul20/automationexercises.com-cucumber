@@ -1,0 +1,778 @@
+2023-12-31 12:12:836 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (297797e9f101448cda37eb938d0a844d)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 12:12:246 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (b7dcabe1c811fcb8e9b9847dcec3ba67)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:734 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (bd1f532b1b42ba58bece1edf11c74452)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:868 INFO  HomePage :79 - Clicking on test cases tab [[ChromeDriver: chrome on windows (0f33333f286eee1ca9979b52e4962706)] -> xpath: //a[text()=' Test Cases']]
+2023-12-31 23:12:888 INFO  TestCasesPage :19 - Getting text from test cases [[ChromeDriver: chrome on windows (0f33333f286eee1ca9979b52e4962706)] -> xpath: //b[text()='Test Cases']]
+2023-12-31 23:12:680 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (ef7fb205fdbe994cd9fa76d07735bd50)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:859 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (6cd676272134dbaf6705f00366529468)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:865 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (a69183ad97eda3f07d0d5e506eac9b05)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:899 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (ebfaa7ec8d736e71cc3cfa5d653f7f74)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:137 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (da1f0c6cc5aa0e5196711b0ed7ab06fc)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:46 INFO  HomePage :79 - Clicking on test cases tab [[ChromeDriver: chrome on windows (be44f54169f29cb2b37aa4c9f49df504)] -> xpath: //a[text()=' Test Cases']]
+2023-12-31 23:12:301 INFO  TestCasesPage :19 - Getting text from test cases [[ChromeDriver: chrome on windows (be44f54169f29cb2b37aa4c9f49df504)] -> xpath: //b[text()='Test Cases']]
+2023-12-31 23:12:329 INFO  HomePage :104 - Clicking on cart tab [[ChromeDriver: chrome on windows (69daca7db8c9f4d1ec85e41d682a80cc)] -> xpath: //a[text()=' Cart']]
+2023-12-31 23:12:415 INFO  HomePage :104 - Clicking on cart tab [[ChromeDriver: chrome on windows (7fdc81837eabf29fbb84bba3afa26aaf)] -> xpath: //a[text()=' Cart']]
+2023-12-31 23:12:478 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (10f5c680b12a07eb87af5fb8707a7f9f)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:927 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (5924a6a21077c77e3a1e97a1b9ad5308)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:95 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (a10e269be43e528cf3929fdb4a13bdd8)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:470 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (3e518a88e71165a708d277a03c62c210)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:71 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:835 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (1f62417c319650dd6f98576554fe1128)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:866 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (1f62417c319650dd6f98576554fe1128)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2023-12-31 23:12:239 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:369 INFO  HomePage :79 - Clicking on test cases tab [[ChromeDriver: chrome on windows (0de0b48cd8df07ab399a5e6b66d78f12)] -> xpath: //a[text()=' Test Cases']]
+2023-12-31 23:12:394 INFO  TestCasesPage :19 - Getting text from test cases [[ChromeDriver: chrome on windows (0de0b48cd8df07ab399a5e6b66d78f12)] -> xpath: //b[text()='Test Cases']]
+2023-12-31 23:12:965 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:06 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:607 INFO  HomePage :104 - Clicking on cart tab [[ChromeDriver: chrome on windows (b26ba56c824331e8b7a332f8fa4582fd)] -> xpath: //a[text()=' Cart']]
+2023-12-31 23:12:837 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:405 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:935 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:716 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (bd11e154110468f7a828a77ae4bfe259)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:747 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (bd11e154110468f7a828a77ae4bfe259)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2023-12-31 23:12:441 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:248 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (fbe4caa314b9a4b2ea9f3d0dbd65e6cd)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:278 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (fbe4caa314b9a4b2ea9f3d0dbd65e6cd)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2023-12-31 23:12:434 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (fbe4caa314b9a4b2ea9f3d0dbd65e6cd)] -> xpath: //input[@name='name']]
+2023-12-31 23:12:276 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:125 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (b68b5b14467aca0d32365392f9a8cb58)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:148 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (b68b5b14467aca0d32365392f9a8cb58)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2023-12-31 23:12:300 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (b68b5b14467aca0d32365392f9a8cb58)] -> xpath: //input[@name='name']]
+2023-12-31 23:12:420 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (b68b5b14467aca0d32365392f9a8cb58)] -> xpath: //input[@name='email']]
+2023-12-31 23:12:489 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (b68b5b14467aca0d32365392f9a8cb58)] -> xpath: //input[@name='subject']]
+2023-12-31 23:12:596 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (b68b5b14467aca0d32365392f9a8cb58)] -> xpath: //textarea[@id='message']]
+2023-12-31 23:12:632 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (b68b5b14467aca0d32365392f9a8cb58)] -> xpath: //input[@name='upload_file']]
+2023-12-31 23:12:688 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (b68b5b14467aca0d32365392f9a8cb58)] -> xpath: //input[@name='submit']]
+2023-12-31 23:12:704 INFO  ContactUsPage :81 - Accepting alert
+2023-12-31 23:12:250 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:11 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (eab3dd25449cbaf014bcbe5fdd7a15a1)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:33 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (eab3dd25449cbaf014bcbe5fdd7a15a1)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2023-12-31 23:12:184 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (eab3dd25449cbaf014bcbe5fdd7a15a1)] -> xpath: //input[@name='name']]
+2023-12-31 23:12:302 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (eab3dd25449cbaf014bcbe5fdd7a15a1)] -> xpath: //input[@name='email']]
+2023-12-31 23:12:380 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (eab3dd25449cbaf014bcbe5fdd7a15a1)] -> xpath: //input[@name='subject']]
+2023-12-31 23:12:484 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (eab3dd25449cbaf014bcbe5fdd7a15a1)] -> xpath: //textarea[@id='message']]
+2023-12-31 23:12:521 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (eab3dd25449cbaf014bcbe5fdd7a15a1)] -> xpath: //input[@name='upload_file']]
+2023-12-31 23:12:588 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (eab3dd25449cbaf014bcbe5fdd7a15a1)] -> xpath: //input[@name='submit']]
+2023-12-31 23:12:602 INFO  ContactUsPage :81 - Accepting alert
+2023-12-31 23:12:433 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:289 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (e8d8a33637171e46f9c573dfc7d2cd03)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:316 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (e8d8a33637171e46f9c573dfc7d2cd03)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2023-12-31 23:12:469 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (e8d8a33637171e46f9c573dfc7d2cd03)] -> xpath: //input[@name='name']]
+2023-12-31 23:12:598 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (e8d8a33637171e46f9c573dfc7d2cd03)] -> xpath: //input[@name='email']]
+2023-12-31 23:12:678 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (e8d8a33637171e46f9c573dfc7d2cd03)] -> xpath: //input[@name='subject']]
+2023-12-31 23:12:786 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (e8d8a33637171e46f9c573dfc7d2cd03)] -> xpath: //textarea[@id='message']]
+2023-12-31 23:12:825 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (e8d8a33637171e46f9c573dfc7d2cd03)] -> xpath: //input[@name='upload_file']]
+2023-12-31 23:12:895 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (e8d8a33637171e46f9c573dfc7d2cd03)] -> xpath: //input[@name='submit']]
+2023-12-31 23:12:905 INFO  ContactUsPage :81 - Accepting alert
+2023-12-31 23:12:67 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:61 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (655d739b237b8af8937c34073454beb4)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:88 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (655d739b237b8af8937c34073454beb4)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2023-12-31 23:12:236 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (655d739b237b8af8937c34073454beb4)] -> xpath: //input[@name='name']]
+2023-12-31 23:12:368 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (655d739b237b8af8937c34073454beb4)] -> xpath: //input[@name='email']]
+2023-12-31 23:12:449 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (655d739b237b8af8937c34073454beb4)] -> xpath: //input[@name='subject']]
+2023-12-31 23:12:563 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (655d739b237b8af8937c34073454beb4)] -> xpath: //textarea[@id='message']]
+2023-12-31 23:12:604 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (655d739b237b8af8937c34073454beb4)] -> xpath: //input[@name='upload_file']]
+2023-12-31 23:12:668 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (655d739b237b8af8937c34073454beb4)] -> xpath: //input[@name='submit']]
+2023-12-31 23:12:684 INFO  ContactUsPage :81 - Accepting alert
+2023-12-31 23:12:163 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:815 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (c22b6dfd7a90a3c644e4ade8d890f782)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:832 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (c22b6dfd7a90a3c644e4ade8d890f782)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2023-12-31 23:12:41 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (c22b6dfd7a90a3c644e4ade8d890f782)] -> xpath: //input[@name='name']]
+2023-12-31 23:12:179 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (c22b6dfd7a90a3c644e4ade8d890f782)] -> xpath: //input[@name='email']]
+2023-12-31 23:12:264 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (c22b6dfd7a90a3c644e4ade8d890f782)] -> xpath: //input[@name='subject']]
+2023-12-31 23:12:389 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (c22b6dfd7a90a3c644e4ade8d890f782)] -> xpath: //textarea[@id='message']]
+2023-12-31 23:12:429 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (c22b6dfd7a90a3c644e4ade8d890f782)] -> xpath: //input[@name='upload_file']]
+2023-12-31 23:12:488 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (c22b6dfd7a90a3c644e4ade8d890f782)] -> xpath: //input[@name='submit']]
+2023-12-31 23:12:505 INFO  ContactUsPage :81 - Accepting alert
+2023-12-31 23:12:529 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (c22b6dfd7a90a3c644e4ade8d890f782)] -> xpath: //div[@class='status alert alert-success']]
+2023-12-31 23:12:803 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (c22b6dfd7a90a3c644e4ade8d890f782)] -> xpath: //span[normalize-space()='Home']]
+2023-12-31 23:12:814 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:380 INFO  HomePage :59 - Verifying homepage Url
+2023-12-31 23:12:206 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (a1beafee5e4ff1dd909d3702a7ce239b)] -> xpath: //a[@href='/contact_us']]
+2023-12-31 23:12:224 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (a1beafee5e4ff1dd909d3702a7ce239b)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2023-12-31 23:12:381 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (a1beafee5e4ff1dd909d3702a7ce239b)] -> xpath: //input[@name='name']]
+2023-12-31 23:12:509 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (a1beafee5e4ff1dd909d3702a7ce239b)] -> xpath: //input[@name='email']]
+2023-12-31 23:12:582 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (a1beafee5e4ff1dd909d3702a7ce239b)] -> xpath: //input[@name='subject']]
+2023-12-31 23:12:681 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (a1beafee5e4ff1dd909d3702a7ce239b)] -> xpath: //textarea[@id='message']]
+2023-12-31 23:12:718 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (a1beafee5e4ff1dd909d3702a7ce239b)] -> xpath: //input[@name='upload_file']]
+2023-12-31 23:12:778 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (a1beafee5e4ff1dd909d3702a7ce239b)] -> xpath: //input[@name='submit']]
+2023-12-31 23:12:793 INFO  ContactUsPage :81 - Accepting alert
+2023-12-31 23:12:819 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (a1beafee5e4ff1dd909d3702a7ce239b)] -> xpath: //div[@class='status alert alert-success']]
+2023-12-31 23:12:242 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (a1beafee5e4ff1dd909d3702a7ce239b)] -> xpath: //span[normalize-space()='Home']]
+2023-12-31 23:12:287 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 00:01:744 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 00:01:675 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (6901306e73d8cacc80d97f33a8da5baf)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 00:01:699 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (6901306e73d8cacc80d97f33a8da5baf)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 00:01:852 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (6901306e73d8cacc80d97f33a8da5baf)] -> xpath: //input[@name='name']]
+2024-01-01 00:01:10 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (6901306e73d8cacc80d97f33a8da5baf)] -> xpath: //input[@name='email']]
+2024-01-01 00:01:96 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (6901306e73d8cacc80d97f33a8da5baf)] -> xpath: //input[@name='subject']]
+2024-01-01 00:01:203 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (6901306e73d8cacc80d97f33a8da5baf)] -> xpath: //textarea[@id='message']]
+2024-01-01 00:01:247 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (6901306e73d8cacc80d97f33a8da5baf)] -> xpath: //input[@name='upload_file']]
+2024-01-01 00:01:323 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (6901306e73d8cacc80d97f33a8da5baf)] -> xpath: //input[@name='submit']]
+2024-01-01 00:01:345 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 00:01:373 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (6901306e73d8cacc80d97f33a8da5baf)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 00:01:712 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (6901306e73d8cacc80d97f33a8da5baf)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 00:01:729 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 00:01:271 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 00:01:105 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (b39c8baddcfefc89418315b6aeb31d58)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 00:01:132 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (b39c8baddcfefc89418315b6aeb31d58)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 00:01:284 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (b39c8baddcfefc89418315b6aeb31d58)] -> xpath: //input[@name='name']]
+2024-01-01 00:01:403 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (b39c8baddcfefc89418315b6aeb31d58)] -> xpath: //input[@name='email']]
+2024-01-01 00:01:472 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (b39c8baddcfefc89418315b6aeb31d58)] -> xpath: //input[@name='subject']]
+2024-01-01 00:01:578 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (b39c8baddcfefc89418315b6aeb31d58)] -> xpath: //textarea[@id='message']]
+2024-01-01 00:01:618 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (b39c8baddcfefc89418315b6aeb31d58)] -> xpath: //input[@name='upload_file']]
+2024-01-01 00:01:682 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (b39c8baddcfefc89418315b6aeb31d58)] -> xpath: //input[@name='submit']]
+2024-01-01 00:01:692 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 00:01:713 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (b39c8baddcfefc89418315b6aeb31d58)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 00:01:128 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (b39c8baddcfefc89418315b6aeb31d58)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 00:01:138 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:450 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:183 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (cbbd4ccf601d050938cbe773e17e67e1)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 01:01:204 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (cbbd4ccf601d050938cbe773e17e67e1)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 01:01:363 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (cbbd4ccf601d050938cbe773e17e67e1)] -> xpath: //input[@name='name']]
+2024-01-01 01:01:486 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (cbbd4ccf601d050938cbe773e17e67e1)] -> xpath: //input[@name='email']]
+2024-01-01 01:01:555 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (cbbd4ccf601d050938cbe773e17e67e1)] -> xpath: //input[@name='subject']]
+2024-01-01 01:01:657 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (cbbd4ccf601d050938cbe773e17e67e1)] -> xpath: //textarea[@id='message']]
+2024-01-01 01:01:695 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (cbbd4ccf601d050938cbe773e17e67e1)] -> xpath: //input[@name='upload_file']]
+2024-01-01 01:01:762 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (cbbd4ccf601d050938cbe773e17e67e1)] -> xpath: //input[@name='submit']]
+2024-01-01 01:01:772 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 01:01:785 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (cbbd4ccf601d050938cbe773e17e67e1)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 01:01:470 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (cbbd4ccf601d050938cbe773e17e67e1)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 01:01:486 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:943 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:419 INFO  HomePage :79 - Clicking on test cases tab [[ChromeDriver: chrome on windows (d532b8da6b987726a3f1e7cfee49171f)] -> xpath: //a[text()=' Test Cases']]
+2024-01-01 01:01:437 INFO  TestCasesPage :19 - Getting text from test cases [[ChromeDriver: chrome on windows (d532b8da6b987726a3f1e7cfee49171f)] -> xpath: //b[text()='Test Cases']]
+2024-01-01 01:01:924 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:367 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:608 INFO  HomePage :104 - Clicking on cart tab [[ChromeDriver: chrome on windows (392c1c6f86ace312ada64004c80f5a43)] -> xpath: //a[text()=' Cart']]
+2024-01-01 01:01:975 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:385 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:553 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:227 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:22 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:61 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:349 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:938 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:339 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:714 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:320 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:210 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:498 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:979 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:391 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:898 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:720 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (6570e6a113ba719e2d7ebce924da4594)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 01:01:748 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (6570e6a113ba719e2d7ebce924da4594)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 01:01:903 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (6570e6a113ba719e2d7ebce924da4594)] -> xpath: //input[@name='name']]
+2024-01-01 01:01:37 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (6570e6a113ba719e2d7ebce924da4594)] -> xpath: //input[@name='email']]
+2024-01-01 01:01:115 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (6570e6a113ba719e2d7ebce924da4594)] -> xpath: //input[@name='subject']]
+2024-01-01 01:01:219 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (6570e6a113ba719e2d7ebce924da4594)] -> xpath: //textarea[@id='message']]
+2024-01-01 01:01:256 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (6570e6a113ba719e2d7ebce924da4594)] -> xpath: //input[@name='upload_file']]
+2024-01-01 01:01:316 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (6570e6a113ba719e2d7ebce924da4594)] -> xpath: //input[@name='submit']]
+2024-01-01 01:01:330 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 01:01:362 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (6570e6a113ba719e2d7ebce924da4594)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 01:01:635 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (6570e6a113ba719e2d7ebce924da4594)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 01:01:648 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:639 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:503 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (3ee930319910975b262c1cea792463d0)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 01:01:534 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (3ee930319910975b262c1cea792463d0)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 01:01:665 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (3ee930319910975b262c1cea792463d0)] -> xpath: //input[@name='name']]
+2024-01-01 01:01:780 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (3ee930319910975b262c1cea792463d0)] -> xpath: //input[@name='email']]
+2024-01-01 01:01:853 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (3ee930319910975b262c1cea792463d0)] -> xpath: //input[@name='subject']]
+2024-01-01 01:01:961 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (3ee930319910975b262c1cea792463d0)] -> xpath: //textarea[@id='message']]
+2024-01-01 01:01:997 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (3ee930319910975b262c1cea792463d0)] -> xpath: //input[@name='upload_file']]
+2024-01-01 01:01:59 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (3ee930319910975b262c1cea792463d0)] -> xpath: //input[@name='submit']]
+2024-01-01 01:01:72 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 01:01:99 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (3ee930319910975b262c1cea792463d0)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 01:01:496 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (3ee930319910975b262c1cea792463d0)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 01:01:512 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:216 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:43 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (5152cc6a1d67220577cc511d9b2739b9)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 01:01:60 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (5152cc6a1d67220577cc511d9b2739b9)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 01:01:198 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (5152cc6a1d67220577cc511d9b2739b9)] -> xpath: //input[@name='name']]
+2024-01-01 01:01:337 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (5152cc6a1d67220577cc511d9b2739b9)] -> xpath: //input[@name='email']]
+2024-01-01 01:01:420 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (5152cc6a1d67220577cc511d9b2739b9)] -> xpath: //input[@name='subject']]
+2024-01-01 01:01:543 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (5152cc6a1d67220577cc511d9b2739b9)] -> xpath: //textarea[@id='message']]
+2024-01-01 01:01:601 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (5152cc6a1d67220577cc511d9b2739b9)] -> xpath: //input[@name='upload_file']]
+2024-01-01 01:01:682 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (5152cc6a1d67220577cc511d9b2739b9)] -> xpath: //input[@name='submit']]
+2024-01-01 01:01:701 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 01:01:720 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (5152cc6a1d67220577cc511d9b2739b9)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 01:01:10 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (5152cc6a1d67220577cc511d9b2739b9)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 01:01:23 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:283 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:18 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (62b65abeb2ba86901d8b17a76517c8aa)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 01:01:46 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (62b65abeb2ba86901d8b17a76517c8aa)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 01:01:182 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (62b65abeb2ba86901d8b17a76517c8aa)] -> xpath: //input[@name='name']]
+2024-01-01 01:01:304 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (62b65abeb2ba86901d8b17a76517c8aa)] -> xpath: //input[@name='email']]
+2024-01-01 01:01:383 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (62b65abeb2ba86901d8b17a76517c8aa)] -> xpath: //input[@name='subject']]
+2024-01-01 01:01:488 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (62b65abeb2ba86901d8b17a76517c8aa)] -> xpath: //textarea[@id='message']]
+2024-01-01 01:01:580 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (62b65abeb2ba86901d8b17a76517c8aa)] -> xpath: //input[@name='upload_file']]
+2024-01-01 01:01:638 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (62b65abeb2ba86901d8b17a76517c8aa)] -> xpath: //input[@name='submit']]
+2024-01-01 01:01:652 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 01:01:677 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (62b65abeb2ba86901d8b17a76517c8aa)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 01:01:387 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (62b65abeb2ba86901d8b17a76517c8aa)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 01:01:399 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:819 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:824 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (94d3b4b4370f25120941f62b88ab3103)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 01:01:847 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (94d3b4b4370f25120941f62b88ab3103)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 01:01:983 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (94d3b4b4370f25120941f62b88ab3103)] -> xpath: //input[@name='name']]
+2024-01-01 01:01:114 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (94d3b4b4370f25120941f62b88ab3103)] -> xpath: //input[@name='email']]
+2024-01-01 01:01:183 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (94d3b4b4370f25120941f62b88ab3103)] -> xpath: //input[@name='subject']]
+2024-01-01 01:01:291 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (94d3b4b4370f25120941f62b88ab3103)] -> xpath: //textarea[@id='message']]
+2024-01-01 01:01:329 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (94d3b4b4370f25120941f62b88ab3103)] -> xpath: //input[@name='upload_file']]
+2024-01-01 01:01:391 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (94d3b4b4370f25120941f62b88ab3103)] -> xpath: //input[@name='submit']]
+2024-01-01 01:01:403 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 01:01:421 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (94d3b4b4370f25120941f62b88ab3103)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 01:01:856 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (94d3b4b4370f25120941f62b88ab3103)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 01:01:873 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:06 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:918 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (1ffba58f66d4cb673d41950f438cd6a7)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 01:01:936 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (1ffba58f66d4cb673d41950f438cd6a7)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 01:01:66 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (1ffba58f66d4cb673d41950f438cd6a7)] -> xpath: //input[@name='name']]
+2024-01-01 01:01:186 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (1ffba58f66d4cb673d41950f438cd6a7)] -> xpath: //input[@name='email']]
+2024-01-01 01:01:263 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (1ffba58f66d4cb673d41950f438cd6a7)] -> xpath: //input[@name='subject']]
+2024-01-01 01:01:369 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (1ffba58f66d4cb673d41950f438cd6a7)] -> xpath: //textarea[@id='message']]
+2024-01-01 01:01:405 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (1ffba58f66d4cb673d41950f438cd6a7)] -> xpath: //input[@name='upload_file']]
+2024-01-01 01:01:470 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (1ffba58f66d4cb673d41950f438cd6a7)] -> xpath: //input[@name='submit']]
+2024-01-01 01:01:485 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 01:01:514 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (1ffba58f66d4cb673d41950f438cd6a7)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 01:01:72 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (1ffba58f66d4cb673d41950f438cd6a7)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 01:01:107 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:374 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:358 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (ea3302b1674bc601f91546bc49babdec)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 01:01:384 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (ea3302b1674bc601f91546bc49babdec)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 01:01:514 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (ea3302b1674bc601f91546bc49babdec)] -> xpath: //input[@name='name']]
+2024-01-01 01:01:620 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (ea3302b1674bc601f91546bc49babdec)] -> xpath: //input[@name='email']]
+2024-01-01 01:01:695 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (ea3302b1674bc601f91546bc49babdec)] -> xpath: //input[@name='subject']]
+2024-01-01 01:01:787 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (ea3302b1674bc601f91546bc49babdec)] -> xpath: //textarea[@id='message']]
+2024-01-01 01:01:821 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (ea3302b1674bc601f91546bc49babdec)] -> xpath: //input[@name='upload_file']]
+2024-01-01 01:01:878 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (ea3302b1674bc601f91546bc49babdec)] -> xpath: //input[@name='submit']]
+2024-01-01 01:01:889 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 01:01:912 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (ea3302b1674bc601f91546bc49babdec)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 01:01:103 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (ea3302b1674bc601f91546bc49babdec)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 01:01:116 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:505 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:223 INFO  HomePage :79 - Clicking on test cases tab [[ChromeDriver: chrome on windows (7b7fba99409ec8fede647c5c789e0f56)] -> xpath: //a[text()=' Test Cases']]
+2024-01-01 01:01:242 INFO  TestCasesPage :19 - Getting text from test cases [[ChromeDriver: chrome on windows (7b7fba99409ec8fede647c5c789e0f56)] -> xpath: //b[text()='Test Cases']]
+2024-01-01 01:01:244 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 01:01:267 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (d5a82e0cf22c94f41b56d714cd85905f)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 01:01:298 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (d5a82e0cf22c94f41b56d714cd85905f)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 01:01:434 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (d5a82e0cf22c94f41b56d714cd85905f)] -> xpath: //input[@name='name']]
+2024-01-01 01:01:564 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (d5a82e0cf22c94f41b56d714cd85905f)] -> xpath: //input[@name='email']]
+2024-01-01 01:01:635 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (d5a82e0cf22c94f41b56d714cd85905f)] -> xpath: //input[@name='subject']]
+2024-01-01 01:01:736 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (d5a82e0cf22c94f41b56d714cd85905f)] -> xpath: //textarea[@id='message']]
+2024-01-01 01:01:768 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (d5a82e0cf22c94f41b56d714cd85905f)] -> xpath: //input[@name='upload_file']]
+2024-01-01 01:01:832 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (d5a82e0cf22c94f41b56d714cd85905f)] -> xpath: //input[@name='submit']]
+2024-01-01 01:01:843 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 01:01:863 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (d5a82e0cf22c94f41b56d714cd85905f)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 01:01:430 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (d5a82e0cf22c94f41b56d714cd85905f)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 01:01:439 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 02:01:769 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 02:01:680 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (aae8732ff16ed970221d8340036c9dfa)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 02:01:704 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (aae8732ff16ed970221d8340036c9dfa)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 02:01:850 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (aae8732ff16ed970221d8340036c9dfa)] -> xpath: //input[@name='name']]
+2024-01-01 02:01:963 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (aae8732ff16ed970221d8340036c9dfa)] -> xpath: //input[@name='email']]
+2024-01-01 02:01:33 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (aae8732ff16ed970221d8340036c9dfa)] -> xpath: //input[@name='subject']]
+2024-01-01 02:01:132 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (aae8732ff16ed970221d8340036c9dfa)] -> xpath: //textarea[@id='message']]
+2024-01-01 02:01:165 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (aae8732ff16ed970221d8340036c9dfa)] -> xpath: //input[@name='upload_file']]
+2024-01-01 02:01:221 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (aae8732ff16ed970221d8340036c9dfa)] -> xpath: //input[@name='submit']]
+2024-01-01 02:01:238 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 02:01:256 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (aae8732ff16ed970221d8340036c9dfa)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 02:01:603 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (aae8732ff16ed970221d8340036c9dfa)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 02:01:619 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 02:01:464 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 02:01:519 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (df47abab81ddb10c8f4ccf7d20166913)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 02:01:547 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (df47abab81ddb10c8f4ccf7d20166913)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 02:01:699 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (df47abab81ddb10c8f4ccf7d20166913)] -> xpath: //input[@name='name']]
+2024-01-01 02:01:815 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (df47abab81ddb10c8f4ccf7d20166913)] -> xpath: //input[@name='email']]
+2024-01-01 02:01:887 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (df47abab81ddb10c8f4ccf7d20166913)] -> xpath: //input[@name='subject']]
+2024-01-01 02:01:990 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (df47abab81ddb10c8f4ccf7d20166913)] -> xpath: //textarea[@id='message']]
+2024-01-01 02:01:28 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (df47abab81ddb10c8f4ccf7d20166913)] -> xpath: //input[@name='upload_file']]
+2024-01-01 02:01:86 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (df47abab81ddb10c8f4ccf7d20166913)] -> xpath: //input[@name='submit']]
+2024-01-01 02:01:97 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 02:01:117 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (df47abab81ddb10c8f4ccf7d20166913)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 02:01:84 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (df47abab81ddb10c8f4ccf7d20166913)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 02:01:94 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 02:01:314 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 02:01:978 INFO  HomePage :65 - Clicking on contact us tab [[ChromeDriver: chrome on windows (af51b6e759459142a59c001e824a531d)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 02:01:13 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (af51b6e759459142a59c001e824a531d)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 02:01:168 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (af51b6e759459142a59c001e824a531d)] -> xpath: //input[@name='name']]
+2024-01-01 02:01:282 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (af51b6e759459142a59c001e824a531d)] -> xpath: //input[@name='email']]
+2024-01-01 02:01:350 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (af51b6e759459142a59c001e824a531d)] -> xpath: //input[@name='subject']]
+2024-01-01 02:01:454 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (af51b6e759459142a59c001e824a531d)] -> xpath: //textarea[@id='message']]
+2024-01-01 02:01:488 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (af51b6e759459142a59c001e824a531d)] -> xpath: //input[@name='upload_file']]
+2024-01-01 02:01:546 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (af51b6e759459142a59c001e824a531d)] -> xpath: //input[@name='submit']]
+2024-01-01 02:01:556 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 02:01:579 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (af51b6e759459142a59c001e824a531d)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 02:01:940 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (af51b6e759459142a59c001e824a531d)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 02:01:953 INFO  HomePage :59 - Verifying homepage Url
+2024-01-01 22:01:07 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 22:01:142 INFO  HomePage :133 - Clicking on product tab [[ChromeDriver: chrome on windows (1bf65364b8595dbe1bc0cff03782e345)] -> xpath: (//a[@href='/products'])[1]]
+2024-01-01 22:01:507 INFO  ProductsPage :32 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (1bf65364b8595dbe1bc0cff03782e345)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-01 22:01:526 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 22:01:749 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 22:01:966 INFO  ProductsPage :32 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (c221e6abbd1ad6c4f54600b642337de6)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-01 22:01:281 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 22:01:373 INFO  HomePage :133 - Clicking on product tab [[ChromeDriver: chrome on windows (c3772e189bfa909eff8804d7935f0347)] -> xpath: (//a[@href='/products'])[1]]
+2024-01-01 22:01:610 INFO  ProductsPage :32 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (c3772e189bfa909eff8804d7935f0347)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-01 22:01:678 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 22:01:766 INFO  HomePage :133 - Clicking on product tab [[ChromeDriver: chrome on windows (fd3601635273a991ca4daff95d2fc546)] -> xpath: (//a[@href='/products'])[1]]
+2024-01-01 22:01:06 INFO  ProductsPage :32 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (fd3601635273a991ca4daff95d2fc546)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-01 22:01:606 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 22:01:680 INFO  HomePage :133 - Clicking on product tab [[ChromeDriver: chrome on windows (55ec6305f437b3f63836468ad79bc81c)] -> xpath: (//a[@href='/products'])[1]]
+2024-01-01 22:01:934 INFO  ProductsPage :33 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (55ec6305f437b3f63836468ad79bc81c)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-01 22:01:133 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 22:01:911 INFO  HomePage :70 - Clicking on contact us tab [[ChromeDriver: chrome on windows (b14b3abafa92f41cb0c01ead63321cbf)] -> xpath: //a[@href='/contact_us']]
+2024-01-01 22:01:932 INFO  ContactUsPage :45 - Getting text get in touch [[ChromeDriver: chrome on windows (b14b3abafa92f41cb0c01ead63321cbf)] -> xpath: //h2[contains(text(),'Get In Touch')]]
+2024-01-01 22:01:106 INFO  ContactUsPage :51 - Entering name Priyato name field [[ChromeDriver: chrome on windows (b14b3abafa92f41cb0c01ead63321cbf)] -> xpath: //input[@name='name']]
+2024-01-01 22:01:255 INFO  ContactUsPage :56 - Entering email patelPri@yahoo.co.into email field [[ChromeDriver: chrome on windows (b14b3abafa92f41cb0c01ead63321cbf)] -> xpath: //input[@name='email']]
+2024-01-01 22:01:397 INFO  ContactUsPage :61 - Entering subject Shirtto subject field [[ChromeDriver: chrome on windows (b14b3abafa92f41cb0c01ead63321cbf)] -> xpath: //input[@name='subject']]
+2024-01-01 22:01:546 INFO  ContactUsPage :66 - Entering message Shirt is defectiveto message field [[ChromeDriver: chrome on windows (b14b3abafa92f41cb0c01ead63321cbf)] -> xpath: //textarea[@id='message']]
+2024-01-01 22:01:594 INFO  ContactUsPage :71 - Clicking on upload file [[ChromeDriver: chrome on windows (b14b3abafa92f41cb0c01ead63321cbf)] -> xpath: //input[@name='upload_file']]
+2024-01-01 22:01:661 INFO  ContactUsPage :76 - clicking on submit tab [[ChromeDriver: chrome on windows (b14b3abafa92f41cb0c01ead63321cbf)] -> xpath: //input[@name='submit']]
+2024-01-01 22:01:677 INFO  ContactUsPage :81 - Accepting alert
+2024-01-01 22:01:695 INFO  ContactUsPage :85 - Getting success message [[ChromeDriver: chrome on windows (b14b3abafa92f41cb0c01ead63321cbf)] -> xpath: //div[@class='status alert alert-success']]
+2024-01-01 22:01:780 INFO  ContactUsPage :91 - Clicking on home tab [[ChromeDriver: chrome on windows (b14b3abafa92f41cb0c01ead63321cbf)] -> xpath: //span[normalize-space()='Home']]
+2024-01-01 22:01:792 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 23:01:795 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 23:01:892 INFO  HomePage :133 - Clicking on product tab [[ChromeDriver: chrome on windows (3dffc3213e08fc8135481c74af744bb1)] -> xpath: (//a[@href='/products'])[1]]
+2024-01-01 23:01:175 INFO  ProductsPage :33 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (3dffc3213e08fc8135481c74af744bb1)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-01 23:01:34 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 23:01:726 INFO  HomePage :133 - Clicking on product tab [[ChromeDriver: chrome on windows (7e80f5c3d8279a855527bc0f602e6bc5)] -> xpath: (//a[@href='/products'])[1]]
+2024-01-01 23:01:956 INFO  ProductsPage :33 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (7e80f5c3d8279a855527bc0f602e6bc5)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-01 23:01:785 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 23:01:877 INFO  HomePage :133 - Clicking on product tab [[ChromeDriver: chrome on windows (ed777eb7c7bfdc2fb23f3c947f3d43f6)] -> xpath: (//a[@href='/products'])[1]]
+2024-01-01 23:01:48 INFO  ProductsPage :33 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (ed777eb7c7bfdc2fb23f3c947f3d43f6)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-01 23:01:689 INFO  HomePage :64 - Verifying homepage Url
+2024-01-01 23:01:780 INFO  HomePage :133 - Clicking on product tab [[ChromeDriver: chrome on windows (24e2212eb65779fd4b17373dfacef80f)] -> xpath: (//a[@href='/products'])[1]]
+2024-01-01 23:01:24 INFO  ProductsPage :33 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (24e2212eb65779fd4b17373dfacef80f)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-02 15:01:808 INFO  HomePage :64 - Verifying homepage Url
+2024-01-02 15:01:08 INFO  HomePage :113 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (b26f65a645b78d5e39bc3c5db7583d99)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 15:01:37 INFO  SignupLoginPage :61 - Getting text from login to your account [[ChromeDriver: chrome on windows (b26f65a645b78d5e39bc3c5db7583d99)] -> xpath: //h2[text()='Login to your account']]
+2024-01-02 15:01:304 INFO  SignupLoginPage :66 - Sending email patelPri@yahoo.co.in to the email field [[ChromeDriver: chrome on windows (b26f65a645b78d5e39bc3c5db7583d99)] -> xpath: //input[@data-qa='login-email']]
+2024-01-02 15:01:378 INFO  SignupLoginPage :70 - Sending password PatP20! to the password field [[ChromeDriver: chrome on windows (b26f65a645b78d5e39bc3c5db7583d99)] -> xpath: //input[@data-qa='login-password']]
+2024-01-02 15:01:257 INFO  SignupLoginPage :74 - Clicking on login button [[ChromeDriver: chrome on windows (b26f65a645b78d5e39bc3c5db7583d99)] -> xpath: //button[text()='Login']]
+2024-01-02 15:01:288 INFO  HomePage :128 - Getting text from Logged user[[ChromeDriver: chrome on windows (b26f65a645b78d5e39bc3c5db7583d99)] -> xpath: //li[10]//a[1]]
+2024-01-02 15:01:450 INFO  HomePage :117 - Clicking on delete account button [[ChromeDriver: chrome on windows (b26f65a645b78d5e39bc3c5db7583d99)] -> xpath: //a[text()=' Delete Account']]
+2024-01-02 15:01:32 INFO  HomePage :120 - Getting text from account deleted [[ChromeDriver: chrome on windows (b26f65a645b78d5e39bc3c5db7583d99)] -> xpath: //b[text()='Account Deleted!']]
+2024-01-02 15:01:414 INFO  HomePage :64 - Verifying homepage Url
+2024-01-02 15:01:510 INFO  HomePage :113 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (f073cd9b63d384a61f4458f595977aa8)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 15:01:532 INFO  SignupLoginPage :61 - Getting text from login to your account [[ChromeDriver: chrome on windows (f073cd9b63d384a61f4458f595977aa8)] -> xpath: //h2[text()='Login to your account']]
+2024-01-02 15:01:764 INFO  SignupLoginPage :66 - Sending email patelpriya@yahoo.co.in to the email field [[ChromeDriver: chrome on windows (f073cd9b63d384a61f4458f595977aa8)] -> xpath: //input[@data-qa='login-email']]
+2024-01-02 15:01:835 INFO  SignupLoginPage :70 - Sending password Priya20 to the password field [[ChromeDriver: chrome on windows (f073cd9b63d384a61f4458f595977aa8)] -> xpath: //input[@data-qa='login-password']]
+2024-01-02 15:01:411 INFO  SignupLoginPage :74 - Clicking on login button [[ChromeDriver: chrome on windows (f073cd9b63d384a61f4458f595977aa8)] -> xpath: //button[text()='Login']]
+2024-01-02 15:01:436 INFO  SignupLoginPage :77 - Getting text from login error msg [[ChromeDriver: chrome on windows (f073cd9b63d384a61f4458f595977aa8)] -> xpath: //p[normalize-space()='Your email or password is incorrect!']]
+2024-01-02 15:01:928 INFO  HomePage :64 - Verifying homepage Url
+2024-01-02 15:01:284 INFO  HomePage :113 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (058bd6d167481686253950d6b9c236df)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 15:01:329 INFO  SignupLoginPage :61 - Getting text from login to your account [[ChromeDriver: chrome on windows (058bd6d167481686253950d6b9c236df)] -> xpath: //h2[text()='Login to your account']]
+2024-01-02 15:01:689 INFO  SignupLoginPage :66 - Sending email patelPri@yahoo.co.in to the email field [[ChromeDriver: chrome on windows (058bd6d167481686253950d6b9c236df)] -> xpath: //input[@data-qa='login-email']]
+2024-01-02 15:01:782 INFO  SignupLoginPage :70 - Sending password PatP20! to the password field [[ChromeDriver: chrome on windows (058bd6d167481686253950d6b9c236df)] -> xpath: //input[@data-qa='login-password']]
+2024-01-02 15:01:173 INFO  SignupLoginPage :74 - Clicking on login button [[ChromeDriver: chrome on windows (058bd6d167481686253950d6b9c236df)] -> xpath: //button[text()='Login']]
+2024-01-02 15:01:218 INFO  HomePage :128 - Getting text from Logged userProxy element for: DefaultElementLocator 'By.xpath: //li[10]//a[1]'
+2024-01-02 15:01:701 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 15:01:859 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (80285b102d86359b19ff15032b5e151d)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 15:01:884 INFO  SignupLoginPage :62 - Getting text from login to your account [[ChromeDriver: chrome on windows (80285b102d86359b19ff15032b5e151d)] -> xpath: //h2[text()='Login to your account']]
+2024-01-02 15:01:94 INFO  SignupLoginPage :67 - Sending email patelPri@yahoo.co.in to the email field [[ChromeDriver: chrome on windows (80285b102d86359b19ff15032b5e151d)] -> xpath: //input[@data-qa='login-email']]
+2024-01-02 15:01:177 INFO  SignupLoginPage :71 - Sending password PatP20! to the password field [[ChromeDriver: chrome on windows (80285b102d86359b19ff15032b5e151d)] -> xpath: //input[@data-qa='login-password']]
+2024-01-02 15:01:912 INFO  SignupLoginPage :75 - Clicking on login button [[ChromeDriver: chrome on windows (80285b102d86359b19ff15032b5e151d)] -> xpath: //button[text()='Login']]
+2024-01-02 15:01:949 INFO  HomePage :132 - Getting text from Logged user[[ChromeDriver: chrome on windows (80285b102d86359b19ff15032b5e151d)] -> xpath: //li[10]//a[1]]
+2024-01-02 15:01:49 INFO  SignupLoginPage :83 - Clicking on logout button [[ChromeDriver: chrome on windows (80285b102d86359b19ff15032b5e151d)] -> xpath: //a[text()=' Logout']]
+2024-01-02 15:01:67 INFO  SignupLoginPage :62 - Getting text from login to your account [[ChromeDriver: chrome on windows (80285b102d86359b19ff15032b5e151d)] -> xpath: //h2[text()='Login to your account']]
+2024-01-02 15:01:658 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 15:01:497 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (1f4fd5ecb0188086acd35e10ff4061e2)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 15:01:635 INFO  SignupLoginPage :67 - Sending email patelpriya@yahoo.co.in to the email field [[ChromeDriver: chrome on windows (1f4fd5ecb0188086acd35e10ff4061e2)] -> xpath: //input[@data-qa='login-email']]
+2024-01-02 15:01:774 INFO  SignupLoginPage :71 - Sending password PatP20! to the password field [[ChromeDriver: chrome on windows (1f4fd5ecb0188086acd35e10ff4061e2)] -> xpath: //input[@data-qa='login-password']]
+2024-01-02 15:01:252 INFO  SignupLoginPage :75 - Clicking on login button [[ChromeDriver: chrome on windows (1f4fd5ecb0188086acd35e10ff4061e2)] -> xpath: //button[text()='Login']]
+2024-01-02 15:01:280 INFO  HomePage :132 - Getting text from Logged userProxy element for: DefaultElementLocator 'By.xpath: //li[10]//a[1]'
+2024-01-02 15:01:621 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 15:01:875 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (670831121b4fd314260198043098015f)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 15:01:73 INFO  SignupLoginPage :67 - Sending email patelPri@yahoo.co.in to the email field [[ChromeDriver: chrome on windows (670831121b4fd314260198043098015f)] -> xpath: //input[@data-qa='login-email']]
+2024-01-02 15:01:153 INFO  SignupLoginPage :71 - Sending password PatP20! to the password field [[ChromeDriver: chrome on windows (670831121b4fd314260198043098015f)] -> xpath: //input[@data-qa='login-password']]
+2024-01-02 15:01:882 INFO  SignupLoginPage :75 - Clicking on login button [[ChromeDriver: chrome on windows (670831121b4fd314260198043098015f)] -> xpath: //button[text()='Login']]
+2024-01-02 15:01:906 INFO  HomePage :132 - Getting text from Logged user[[ChromeDriver: chrome on windows (670831121b4fd314260198043098015f)] -> xpath: //li[10]//a[1]]
+2024-01-02 15:01:737 INFO  ProductsPage :32 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (670831121b4fd314260198043098015f)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-02 15:01:416 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 15:01:844 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (4199274d6f827865033bec8fb561879e)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 15:01:35 INFO  SignupLoginPage :67 - Sending email patelPri@yahoo.co.in to the email field [[ChromeDriver: chrome on windows (4199274d6f827865033bec8fb561879e)] -> xpath: //input[@data-qa='login-email']]
+2024-01-02 15:01:107 INFO  SignupLoginPage :71 - Sending password PatP20! to the password field [[ChromeDriver: chrome on windows (4199274d6f827865033bec8fb561879e)] -> xpath: //input[@data-qa='login-password']]
+2024-01-02 15:01:245 INFO  SignupLoginPage :75 - Clicking on login button [[ChromeDriver: chrome on windows (4199274d6f827865033bec8fb561879e)] -> xpath: //button[text()='Login']]
+2024-01-02 15:01:289 INFO  HomePage :132 - Getting text from Logged user[[ChromeDriver: chrome on windows (4199274d6f827865033bec8fb561879e)] -> xpath: //li[10]//a[1]]
+2024-01-02 15:01:535 INFO  ProductsPage :32 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (4199274d6f827865033bec8fb561879e)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-02 15:01:718 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 16:01:638 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 16:01:544 INFO  ProductsPage :49 - Clicking on view product tab of stylish dress [[ChromeDriver: chrome on windows (5873b250945161b533f11d8e706c9123)] -> xpath: (//a[text()='View Product'])[1]]
+2024-01-02 16:01:634 INFO  ProductDetailsPage :29 - Getting text from stylish dress Proxy element for: DefaultElementLocator 'By.xpath: (//h2[normalize-space()='Stylish Dress'])[1]'
+2024-01-02 16:01:743 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 16:01:726 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 16:01:130 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 16:01:240 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:546 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:885 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (18a3450f625d6150ba386b22b617fb5d)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 17:01:909 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (18a3450f625d6150ba386b22b617fb5d)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 17:01:429 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (18a3450f625d6150ba386b22b617fb5d)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 17:01:563 INFO  SignupLoginPage :56 - Sending email patelPri@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (18a3450f625d6150ba386b22b617fb5d)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 17:01:688 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (18a3450f625d6150ba386b22b617fb5d)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 17:01:732 INFO  SignupPage :81 - Getting text from enter account info Proxy element for: DefaultElementLocator 'By.xpath: //b[text()='Enter Account Information']'
+2024-01-02 17:01:97 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:328 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (0431004b21b26e21ad6c7b72110161e3)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 17:01:367 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (0431004b21b26e21ad6c7b72110161e3)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 17:01:461 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (0431004b21b26e21ad6c7b72110161e3)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 17:01:565 INFO  SignupLoginPage :56 - Sending email patelPri@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (0431004b21b26e21ad6c7b72110161e3)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 17:01:241 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (0431004b21b26e21ad6c7b72110161e3)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 17:01:437 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:647 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (47d5317eb1895f9b6bf4c1372883cc82)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 17:01:675 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (47d5317eb1895f9b6bf4c1372883cc82)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 17:01:836 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (47d5317eb1895f9b6bf4c1372883cc82)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 17:01:960 INFO  SignupLoginPage :56 - Sending email patelPri@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (47d5317eb1895f9b6bf4c1372883cc82)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 17:01:895 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (47d5317eb1895f9b6bf4c1372883cc82)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 17:01:924 INFO  SignupLoginPage :84 - Getting text from signup error msg [[ChromeDriver: chrome on windows (47d5317eb1895f9b6bf4c1372883cc82)] -> xpath: //p[text()='Email Address already exist!']]
+2024-01-02 17:01:906 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:355 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 17:01:390 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 17:01:554 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 17:01:667 INFO  SignupLoginPage :56 - Sending email patelP@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 17:01:455 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 17:01:475 INFO  SignupPage :81 - Getting text from enter account info [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //b[text()='Enter Account Information']]
+2024-01-02 17:01:593 INFO  SignupPage :86 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@value='Mrs']]
+2024-01-02 17:01:678 INFO  SignupPage :90 - Sending password PatP20!to the password field[[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@id='password']]
+2024-01-02 17:01:820 INFO  SignupPage :94 - Selecting day from dropdown [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //select[@id='days']]
+2024-01-02 17:01:940 INFO  SignupPage :98 - Selecting month from dropdown [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //select[@id='months']]
+2024-01-02 17:01:87 INFO  SignupPage :102 - Selecting year from dropdown [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //select[@id='years']]
+2024-01-02 17:01:172 INFO  SignupPage :106 - Clicking on news letter box [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@id='newsletter']]
+2024-01-02 17:01:246 INFO  SignupPage :110 - Clicking on special offer box [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@id='optin']]
+2024-01-02 17:01:360 INFO  SignupPage :114 - Sending first name Priyato the first name field [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@id='first_name']]
+2024-01-02 17:01:450 INFO  SignupPage :118 - Sending last name Patelto the last name field [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@id='last_name']]
+2024-01-02 17:01:583 INFO  SignupPage :122 - Sending  address1 54,Shantinagar societyto the to the address1 field [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@id='address1']]
+2024-01-02 17:01:696 INFO  SignupPage :126 - Sending address2 Naranpurato the address2 field [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@id='address2']]
+2024-01-02 17:01:823 INFO  SignupPage :130 - selecting country from dropdown [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //select[@id='country']]
+2024-01-02 17:01:952 INFO  SignupPage :134 - Sending state name Gujaratto the state field [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@id='state']]
+2024-01-02 17:01:87 INFO  SignupPage :138 - Sending city name Ahmedabadto the city field [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@id='city']]
+2024-01-02 17:01:198 INFO  SignupPage :142 - Sending zipcode number 380013to the zipcode field [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@id='zipcode']]
+2024-01-02 17:01:323 INFO  SignupPage :146 - Sending mobile number 09886611144to the mobile number field [[ChromeDriver: chrome on windows (74e39155bbddf8b25e2d0fe7852b9f5c)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 17:01:482 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:249 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 17:01:270 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 17:01:455 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 17:01:583 INFO  SignupLoginPage :56 - Sending email patelP@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 17:01:705 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 17:01:728 INFO  SignupPage :81 - Getting text from enter account info [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //b[text()='Enter Account Information']]
+2024-01-02 17:01:862 INFO  SignupPage :86 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@value='Mrs']]
+2024-01-02 17:01:944 INFO  SignupPage :90 - Sending password PatP20!to the password field[[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@id='password']]
+2024-01-02 17:01:60 INFO  SignupPage :94 - Selecting day from dropdown [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //select[@id='days']]
+2024-01-02 17:01:174 INFO  SignupPage :98 - Selecting month from dropdown [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //select[@id='months']]
+2024-01-02 17:01:329 INFO  SignupPage :102 - Selecting year from dropdown [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //select[@id='years']]
+2024-01-02 17:01:408 INFO  SignupPage :106 - Clicking on news letter box [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@id='newsletter']]
+2024-01-02 17:01:499 INFO  SignupPage :110 - Clicking on special offer box [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@id='optin']]
+2024-01-02 17:01:638 INFO  SignupPage :114 - Sending first name Priyato the first name field [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@id='first_name']]
+2024-01-02 17:01:757 INFO  SignupPage :118 - Sending last name Patelto the last name field [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@id='last_name']]
+2024-01-02 17:01:956 INFO  SignupPage :122 - Sending  address1 54,Shantinagar societyto the to the address1 field [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@id='address1']]
+2024-01-02 17:01:77 INFO  SignupPage :126 - Sending address2 Naranpurato the address2 field [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@id='address2']]
+2024-01-02 17:01:201 INFO  SignupPage :130 - selecting country from dropdown [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //select[@id='country']]
+2024-01-02 17:01:308 INFO  SignupPage :134 - Sending state name Gujaratto the state field [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@id='state']]
+2024-01-02 17:01:427 INFO  SignupPage :138 - Sending city name Ahmedabadto the city field [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@id='city']]
+2024-01-02 17:01:545 INFO  SignupPage :142 - Sending zipcode number 380013to the zipcode field [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@id='zipcode']]
+2024-01-02 17:01:653 INFO  SignupPage :146 - Sending mobile number 09886611144to the mobile number field [[ChromeDriver: chrome on windows (a206c2d8c16c8746817492bde6ad6c44)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 17:01:744 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:505 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 17:01:530 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 17:01:755 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 17:01:924 INFO  SignupLoginPage :56 - Sending email patelP@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 17:01:111 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 17:01:362 INFO  SignupPage :82 - Getting text from enter account info [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //b[text()='Enter Account Information']]
+2024-01-02 17:01:461 INFO  SignupPage :87 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@value='Mrs']]
+2024-01-02 17:01:660 INFO  SignupPage :91 - Sending password PatP20!to the password field[[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@id='password']]
+2024-01-02 17:01:784 INFO  SignupPage :95 - Selecting day from dropdown [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //select[@id='days']]
+2024-01-02 17:01:886 INFO  SignupPage :99 - Selecting month from dropdown [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //select[@id='months']]
+2024-01-02 17:01:986 INFO  SignupPage :103 - Selecting year from dropdown [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //select[@id='years']]
+2024-01-02 17:01:63 INFO  SignupPage :107 - Clicking on news letter box [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@id='newsletter']]
+2024-01-02 17:01:118 INFO  SignupPage :111 - Clicking on special offer box [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@id='optin']]
+2024-01-02 17:01:202 INFO  SignupPage :115 - Sending first name Priyato the first name field [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@id='first_name']]
+2024-01-02 17:01:276 INFO  SignupPage :119 - Sending last name Patelto the last name field [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@id='last_name']]
+2024-01-02 17:01:424 INFO  SignupPage :123 - Sending  address1 54,Shantinagar societyto the to the address1 field [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@id='address1']]
+2024-01-02 17:01:515 INFO  SignupPage :127 - Sending address2 Naranpurato the address2 field [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@id='address2']]
+2024-01-02 17:01:587 INFO  SignupPage :131 - selecting country from dropdown [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //select[@id='country']]
+2024-01-02 17:01:678 INFO  SignupPage :135 - Sending state name Gujaratto the state field [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@id='state']]
+2024-01-02 17:01:762 INFO  SignupPage :139 - Sending city name Ahmedabadto the city field [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@id='city']]
+2024-01-02 17:01:834 INFO  SignupPage :143 - Sending zipcode number 380013to the zipcode field [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@id='zipcode']]
+2024-01-02 17:01:924 INFO  SignupPage :147 - Sending mobile number 09886611144to the mobile number field [[ChromeDriver: chrome on windows (4804e127d29f3fa2e96365c7ab47dc7e)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 17:01:765 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:301 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 17:01:319 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 17:01:478 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 17:01:595 INFO  SignupLoginPage :56 - Sending email patelP@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 17:01:426 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 17:01:451 INFO  SignupPage :84 - Getting text from enter account info [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //b[text()='Enter Account Information']]
+2024-01-02 17:01:564 INFO  SignupPage :89 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@value='Mrs']]
+2024-01-02 17:01:643 INFO  SignupPage :93 - Sending password PatP20!to the password field[[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@id='password']]
+2024-01-02 17:01:774 INFO  SignupPage :97 - Selecting day from dropdown [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //select[@id='days']]
+2024-01-02 17:01:898 INFO  SignupPage :101 - Selecting month from dropdown [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //select[@id='months']]
+2024-01-02 17:01:07 INFO  SignupPage :105 - Selecting year from dropdown [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //select[@id='years']]
+2024-01-02 17:01:65 INFO  SignupPage :109 - Clicking on news letter box [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@id='newsletter']]
+2024-01-02 17:01:141 INFO  SignupPage :113 - Clicking on special offer box [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@id='optin']]
+2024-01-02 17:01:252 INFO  SignupPage :117 - Sending first name Priyato the first name field [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@id='first_name']]
+2024-01-02 17:01:327 INFO  SignupPage :121 - Sending last name Patelto the last name field [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@id='last_name']]
+2024-01-02 17:01:452 INFO  SignupPage :125 - Sending  address1 54,Shantinagar societyto the to the address1 field [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@id='address1']]
+2024-01-02 17:01:551 INFO  SignupPage :129 - Sending address2 Naranpurato the address2 field [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@id='address2']]
+2024-01-02 17:01:655 INFO  SignupPage :133 - selecting country from dropdown [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //select[@id='country']]
+2024-01-02 17:01:748 INFO  SignupPage :137 - Sending state name Gujaratto the state field [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@id='state']]
+2024-01-02 17:01:834 INFO  SignupPage :141 - Sending city name Ahmedabadto the city field [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@id='city']]
+2024-01-02 17:01:916 INFO  SignupPage :145 - Sending zipcode number 380013to the zipcode field [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@id='zipcode']]
+2024-01-02 17:01:03 INFO  SignupPage :149 - Sending mobile number 09886611144to the mobile number field [[ChromeDriver: chrome on windows (65a8df4d5dbe9c4d32a9082c9437b107)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 17:01:955 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:948 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 17:01:965 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 17:01:83 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 17:01:193 INFO  SignupLoginPage :56 - Sending email patelP@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 17:01:16 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 17:01:38 INFO  SignupPage :84 - Getting text from enter account info [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //b[text()='Enter Account Information']]
+2024-01-02 17:01:153 INFO  SignupPage :89 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@value='Mrs']]
+2024-01-02 17:01:251 INFO  SignupPage :93 - Sending password PatP20!to the password field[[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@id='password']]
+2024-01-02 17:01:389 INFO  SignupPage :97 - Selecting day from dropdown [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //select[@id='days']]
+2024-01-02 17:01:485 INFO  SignupPage :101 - Selecting month from dropdown [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //select[@id='months']]
+2024-01-02 17:01:588 INFO  SignupPage :105 - Selecting year from dropdown [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //select[@id='years']]
+2024-01-02 17:01:643 INFO  SignupPage :109 - Clicking on news letter box [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@id='newsletter']]
+2024-01-02 17:01:710 INFO  SignupPage :113 - Clicking on special offer box [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@id='optin']]
+2024-01-02 17:01:805 INFO  SignupPage :117 - Sending first name Priyato the first name field [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@id='first_name']]
+2024-01-02 17:01:886 INFO  SignupPage :121 - Sending last name Patelto the last name field [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@id='last_name']]
+2024-01-02 17:01:07 INFO  SignupPage :125 - Sending  address1 54,Shantinagar societyto the to the address1 field [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@id='address1']]
+2024-01-02 17:01:115 INFO  SignupPage :129 - Sending address2 Naranpurato the address2 field [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@id='address2']]
+2024-01-02 17:01:193 INFO  SignupPage :133 - selecting country from dropdown [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //select[@id='country']]
+2024-01-02 17:01:286 INFO  SignupPage :137 - Sending state name Gujaratto the state field [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@id='state']]
+2024-01-02 17:01:371 INFO  SignupPage :141 - Sending city name Ahmedabadto the city field [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@id='city']]
+2024-01-02 17:01:460 INFO  SignupPage :145 - Sending zipcode number 380013to the zipcode field [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@id='zipcode']]
+2024-01-02 17:01:564 INFO  SignupPage :149 - Sending mobile number 09886611144to the mobile number field [[ChromeDriver: chrome on windows (8a391122f4732718b5a1a3d89a6653b6)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 17:01:289 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:834 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 17:01:856 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 17:01:982 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 17:01:95 INFO  SignupLoginPage :56 - Sending email patelP@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 17:01:675 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 17:01:700 INFO  SignupPage :84 - Getting text from enter account info [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //b[text()='Enter Account Information']]
+2024-01-02 17:01:776 INFO  SignupPage :89 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@value='Mrs']]
+2024-01-02 17:01:869 INFO  SignupPage :93 - Sending password PatP20!to the password field[[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@id='password']]
+2024-01-02 17:01:982 INFO  SignupPage :97 - Selecting day from dropdown [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //select[@id='days']]
+2024-01-02 17:01:61 INFO  SignupPage :101 - Selecting month from dropdown [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //select[@id='months']]
+2024-01-02 17:01:137 INFO  SignupPage :105 - Selecting year from dropdown [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //select[@id='years']]
+2024-01-02 17:01:184 INFO  SignupPage :109 - Clicking on news letter box [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@id='newsletter']]
+2024-01-02 17:01:234 INFO  SignupPage :113 - Clicking on special offer box [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@id='optin']]
+2024-01-02 17:01:308 INFO  SignupPage :117 - Sending first name Priyato the first name field [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@id='first_name']]
+2024-01-02 17:01:386 INFO  SignupPage :121 - Sending last name Patelto the last name field [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@id='last_name']]
+2024-01-02 17:01:541 INFO  SignupPage :125 - Sending  address1 54,Shantinagar societyto the to the address1 field [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@id='address1']]
+2024-01-02 17:01:652 INFO  SignupPage :129 - Sending address2 Naranpurato the address2 field [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@id='address2']]
+2024-01-02 17:01:718 INFO  SignupPage :133 - selecting country from dropdown [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //select[@id='country']]
+2024-01-02 17:01:806 INFO  SignupPage :137 - Sending state name Gujaratto the state field [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@id='state']]
+2024-01-02 17:01:908 INFO  SignupPage :141 - Sending city name Ahmedabadto the city field [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@id='city']]
+2024-01-02 17:01:993 INFO  SignupPage :145 - Sending zipcode number 380013to the zipcode field [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@id='zipcode']]
+2024-01-02 17:01:84 INFO  SignupPage :149 - Sending mobile number 09886611144to the mobile number field [[ChromeDriver: chrome on windows (1265e8ee4a1e9902dcbffae568f1e7ff)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 17:01:815 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:721 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 17:01:195 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (67d0b5c99d10727bd1c2548b2383e579)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 17:01:324 INFO  SignupLoginPage :68 - Sending email patelPri@yahoo.co.in to the email field [[ChromeDriver: chrome on windows (67d0b5c99d10727bd1c2548b2383e579)] -> xpath: //input[@data-qa='login-email']]
+2024-01-02 17:01:419 INFO  SignupLoginPage :72 - Sending password PatP20! to the password field [[ChromeDriver: chrome on windows (67d0b5c99d10727bd1c2548b2383e579)] -> xpath: //input[@data-qa='login-password']]
+2024-01-02 17:01:215 INFO  SignupLoginPage :76 - Clicking on login button [[ChromeDriver: chrome on windows (67d0b5c99d10727bd1c2548b2383e579)] -> xpath: //button[text()='Login']]
+2024-01-02 17:01:238 INFO  HomePage :132 - Getting text from Logged user[[ChromeDriver: chrome on windows (67d0b5c99d10727bd1c2548b2383e579)] -> xpath: //li[10]//a[1]]
+2024-01-02 17:01:455 INFO  ProductsPage :38 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (67d0b5c99d10727bd1c2548b2383e579)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-02 17:01:300 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 19:01:541 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 19:01:470 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 19:01:496 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 19:01:608 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 19:01:750 INFO  SignupLoginPage :56 - Sending email patelP@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 19:01:324 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 19:01:357 INFO  SignupPage :84 - Getting text from enter account info [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //b[text()='Enter Account Information']]
+2024-01-02 19:01:478 INFO  SignupPage :89 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@value='Mrs']]
+2024-01-02 19:01:573 INFO  SignupPage :93 - Sending password PatP20!to the password field[[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@id='password']]
+2024-01-02 19:01:706 INFO  SignupPage :97 - Selecting day from dropdown [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //select[@id='days']]
+2024-01-02 19:01:824 INFO  SignupPage :101 - Selecting month from dropdown [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //select[@id='months']]
+2024-01-02 19:01:929 INFO  SignupPage :105 - Selecting year from dropdown [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //select[@id='years']]
+2024-01-02 19:01:994 INFO  SignupPage :109 - Clicking on news letter box [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@id='newsletter']]
+2024-01-02 19:01:72 INFO  SignupPage :113 - Clicking on special offer box [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@id='optin']]
+2024-01-02 19:01:165 INFO  SignupPage :117 - Sending first name Priyato the first name field [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@id='first_name']]
+2024-01-02 19:01:256 INFO  SignupPage :121 - Sending last name Patelto the last name field [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@id='last_name']]
+2024-01-02 19:01:425 INFO  SignupPage :125 - Sending  address1 54,Shantinagar societyto the to the address1 field [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@id='address1']]
+2024-01-02 19:01:530 INFO  SignupPage :129 - Sending address2 Naranpurato the address2 field [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@id='address2']]
+2024-01-02 19:01:613 INFO  SignupPage :133 - selecting country from dropdown [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //select[@id='country']]
+2024-01-02 19:01:745 INFO  SignupPage :137 - Sending state name Gujaratto the state field [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@id='state']]
+2024-01-02 19:01:852 INFO  SignupPage :141 - Sending city name Ahmedabadto the city field [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@id='city']]
+2024-01-02 19:01:948 INFO  SignupPage :145 - Sending zipcode number 380013to the zipcode field [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@id='zipcode']]
+2024-01-02 19:01:50 INFO  SignupPage :149 - Sending mobile number 09886611144to the mobile number field [[ChromeDriver: chrome on windows (dcc68d81b94c1de41ff8acadff4241a4)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 20:01:12 INFO  HomePage :68 - Verifying homepage Url
+2024-01-02 20:01:835 INFO  HomePage :117 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 20:01:859 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 20:01:22 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 20:01:182 INFO  SignupLoginPage :56 - Sending email patelP@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 20:01:441 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 20:01:49 INFO  SignupPage :84 - Getting text from enter account info [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //b[text()='Enter Account Information']]
+2024-01-02 20:01:132 INFO  SignupPage :89 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@value='Mrs']]
+2024-01-02 20:01:208 INFO  SignupPage :93 - Sending password PatP20!to the password field[[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@id='password']]
+2024-01-02 20:01:348 INFO  SignupPage :97 - Selecting day from dropdown [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //select[@id='days']]
+2024-01-02 20:01:443 INFO  SignupPage :101 - Selecting month from dropdown [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //select[@id='months']]
+2024-01-02 20:01:558 INFO  SignupPage :105 - Selecting year from dropdown [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //select[@id='years']]
+2024-01-02 20:01:628 INFO  SignupPage :109 - Clicking on news letter box [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@id='newsletter']]
+2024-01-02 20:01:685 INFO  SignupPage :113 - Clicking on special offer box [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@id='optin']]
+2024-01-02 20:01:803 INFO  SignupPage :117 - Sending first name Priyato the first name field [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@id='first_name']]
+2024-01-02 20:01:899 INFO  SignupPage :121 - Sending last name Patelto the last name field [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@id='last_name']]
+2024-01-02 20:01:69 INFO  SignupPage :125 - Sending  address1 54,Shantinagar societyto the to the address1 field [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@id='address1']]
+2024-01-02 20:01:192 INFO  SignupPage :129 - Sending address2 Naranpurato the address2 field [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@id='address2']]
+2024-01-02 20:01:286 INFO  SignupPage :133 - selecting country from dropdown [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //select[@id='country']]
+2024-01-02 20:01:391 INFO  SignupPage :137 - Sending state name Gujaratto the state field [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@id='state']]
+2024-01-02 20:01:491 INFO  SignupPage :141 - Sending city name Ahmedabadto the city field [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@id='city']]
+2024-01-02 20:01:581 INFO  SignupPage :145 - Sending zipcode number 380013to the zipcode field [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@id='zipcode']]
+2024-01-02 20:01:692 INFO  SignupPage :149 - Sending mobile number 09886611144to the mobile number field [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 20:01:37 INFO  SignupPage :154 - Clicking on create on account button [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: (//button[@type='submit'])[1]]
+2024-01-02 20:01:58 INFO  SignupPage :157 - Getting text from account created [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //b[normalize-space()='Account Created!']]
+2024-01-02 20:01:186 INFO  PaymentPage :76 - Clicking on continue tab [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //a[normalize-space()='Continue']]
+2024-01-02 20:01:53 INFO  HomePage :132 - Getting text from Logged user[[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //li[10]//a[1]]
+2024-01-02 20:01:39 INFO  HomePage :121 - Clicking on delete account button [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //a[text()=' Delete Account']]
+2024-01-02 20:01:56 INFO  HomePage :124 - Getting text from account deleted [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //b[text()='Account Deleted!']]
+2024-01-02 20:01:646 INFO  HomePage :129 - Clicking on continue button [[ChromeDriver: chrome on windows (f2b18a10d3e6c9dbca43d9c6ae458ba3)] -> xpath: //a[text()='Continue']]
+2024-01-02 20:01:362 INFO  HomePage :67 - Verifying homepage Url
+2024-01-02 20:01:396 INFO  HomePage :91 - Scroll down to subscription text
+2024-01-02 20:01:431 INFO  HomePage :94 - Getting text from subscription [[ChromeDriver: chrome on windows (11ba9fb65d9a2522fa2cc6757bd9ef43)] -> xpath: //h2[text()='Subscription']]
+2024-01-02 20:01:578 INFO  HomePage :99 - Entering email patelPri@yahoo.co.in to the subscription field [[ChromeDriver: chrome on windows (11ba9fb65d9a2522fa2cc6757bd9ef43)] -> id: susbscribe_email]
+2024-01-02 20:01:589 INFO  HomePage :67 - Verifying homepage Url
+2024-01-02 20:01:603 INFO  HomePage :106 - Getting success message from subscription [[ChromeDriver: chrome on windows (11ba9fb65d9a2522fa2cc6757bd9ef43)] -> xpath: //div[@class='alert-success alert']]
+2024-01-02 20:01:148 INFO  HomePage :67 - Verifying homepage Url
+2024-01-02 20:01:80 INFO  HomePage :111 - Clicking on cart tab [[ChromeDriver: chrome on windows (d084e3e205bd9e3b69e926bfa1dfdeca)] -> xpath: //a[text()=' Cart']]
+2024-01-02 20:01:105 INFO  HomePage :91 - Scroll down to subscription text
+2024-01-02 20:01:120 INFO  HomePage :94 - Getting text from subscription [[ChromeDriver: chrome on windows (d084e3e205bd9e3b69e926bfa1dfdeca)] -> xpath: //h2[text()='Subscription']]
+2024-01-02 20:01:334 INFO  HomePage :99 - Entering email patelPri@yahoo.co.in to the subscription field [[ChromeDriver: chrome on windows (d084e3e205bd9e3b69e926bfa1dfdeca)] -> id: susbscribe_email]
+2024-01-02 20:01:343 INFO  HomePage :67 - Verifying homepage Url
+2024-01-02 20:01:534 INFO  HomePage :67 - Verifying homepage Url
+2024-01-02 20:01:577 INFO  HomePage :91 - Scroll down to subscription text
+2024-01-02 20:01:634 INFO  HomePage :94 - Getting text from subscription [[ChromeDriver: chrome on windows (b74f8efe6783c1dd865c21929b0590dc)] -> xpath: //h2[text()='Subscription']]
+2024-01-02 20:01:808 INFO  HomePage :99 - Entering email patelPri@yahoo.co.in to the subscription field [[ChromeDriver: chrome on windows (b74f8efe6783c1dd865c21929b0590dc)] -> id: susbscribe_email]
+2024-01-02 20:01:849 INFO  HomePage :67 - Verifying homepage Url
+2024-01-02 20:01:870 INFO  HomePage :106 - Getting success message from subscription [[ChromeDriver: chrome on windows (b74f8efe6783c1dd865c21929b0590dc)] -> xpath: //div[@class='alert-success alert']]
+2024-01-02 20:01:905 INFO  HomePage :69 - Verifying homepage Url
+2024-01-02 20:01:939 INFO  HomePage :93 - Scroll down to subscription text
+2024-01-02 20:01:987 INFO  HomePage :96 - Verify Subscription text is displayed : [[ChromeDriver: chrome on windows (1a7601600bbdb8c58ea79fd03e8933a7)] -> xpath: //h2[text()='Subscription']]
+2024-01-02 20:01:129 INFO  HomePage :105 - Entering email patelPri@yahoo.co.in to the subscription field [[ChromeDriver: chrome on windows (1a7601600bbdb8c58ea79fd03e8933a7)] -> id: susbscribe_email]
+2024-01-02 20:01:146 INFO  HomePage :69 - Verifying homepage Url
+2024-01-02 20:01:756 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 20:01:801 INFO  HomePage :94 - Scroll down to subscription text
+2024-01-02 20:01:877 INFO  HomePage :97 - Verify Subscription text is displayed : [[ChromeDriver: chrome on windows (fbb11230957541b71a314ac012214209)] -> xpath: //h2[text()='Subscription']]
+2024-01-02 20:01:28 INFO  HomePage :106 - Entering email patelPri@yahoo.co.in to the subscription field [[ChromeDriver: chrome on windows (fbb11230957541b71a314ac012214209)] -> id: susbscribe_email]
+2024-01-02 20:01:39 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 20:01:984 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 20:01:19 INFO  HomePage :94 - Scroll down to subscription text
+2024-01-02 20:01:82 INFO  HomePage :97 - Verify Subscription text is displayed : [[ChromeDriver: chrome on windows (e8d9928547352ba7832efd6542610702)] -> xpath: //h2[text()='Subscription']]
+2024-01-02 20:01:299 INFO  HomePage :107 - Entering email patelPri@yahoo.co.in to the subscription field [[ChromeDriver: chrome on windows (e8d9928547352ba7832efd6542610702)] -> id: susbscribe_email]
+2024-01-02 20:01:308 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 20:01:750 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 20:01:792 INFO  HomePage :94 - Scroll down to subscription text
+2024-01-02 20:01:875 INFO  HomePage :97 - Verify Subscription text is displayed : [[ChromeDriver: chrome on windows (80733bd592adeb2c575c62d5067c161c)] -> xpath: //h2[normalize-space()='Subscription']]
+2024-01-02 20:01:530 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 20:01:97 INFO  HomePage :114 - Clicking on cart tab [[ChromeDriver: chrome on windows (1211171b90f024d13d951c6f171ad826)] -> xpath: //a[text()=' Cart']]
+2024-01-02 20:01:120 INFO  HomePage :94 - Scroll down to subscription text
+2024-01-02 20:01:274 INFO  HomePage :97 - Verify Subscription text is displayed : [[ChromeDriver: chrome on windows (1211171b90f024d13d951c6f171ad826)] -> xpath: //h2[normalize-space()='Subscription']]
+2024-01-02 21:01:33 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 21:01:303 INFO  HomePage :118 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 21:01:327 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 21:01:515 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 21:01:635 INFO  SignupLoginPage :56 - Sending email patelP@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 21:01:721 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 21:01:987 INFO  SignupPage :84 - Getting text from enter account info [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //b[text()='Enter Account Information']]
+2024-01-02 21:01:59 INFO  SignupPage :89 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@value='Mrs']]
+2024-01-02 21:01:143 INFO  SignupPage :93 - Sending password PatP20!to the password field[[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@id='password']]
+2024-01-02 21:01:322 INFO  SignupPage :97 - Selecting day from dropdown [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //select[@id='days']]
+2024-01-02 21:01:415 INFO  SignupPage :101 - Selecting month from dropdown [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //select[@id='months']]
+2024-01-02 21:01:527 INFO  SignupPage :105 - Selecting year from dropdown [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //select[@id='years']]
+2024-01-02 21:01:583 INFO  SignupPage :109 - Clicking on news letter box [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@id='newsletter']]
+2024-01-02 21:01:654 INFO  SignupPage :113 - Clicking on special offer box [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@id='optin']]
+2024-01-02 21:01:733 INFO  SignupPage :117 - Sending first name Priyato the first name field [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@id='first_name']]
+2024-01-02 21:01:811 INFO  SignupPage :121 - Sending last name Patelto the last name field [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@id='last_name']]
+2024-01-02 21:01:956 INFO  SignupPage :125 - Sending  address1 54,Shantinagar societyto the to the address1 field [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@id='address1']]
+2024-01-02 21:01:60 INFO  SignupPage :129 - Sending address2 Naranpurato the address2 field [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@id='address2']]
+2024-01-02 21:01:151 INFO  SignupPage :133 - selecting country from dropdown [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //select[@id='country']]
+2024-01-02 21:01:247 INFO  SignupPage :137 - Sending state name Gujaratto the state field [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@id='state']]
+2024-01-02 21:01:350 INFO  SignupPage :141 - Sending city name Ahmedabadto the city field [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@id='city']]
+2024-01-02 21:01:443 INFO  SignupPage :145 - Sending zipcode number 380013to the zipcode field [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@id='zipcode']]
+2024-01-02 21:01:550 INFO  SignupPage :149 - Sending mobile number 09886611144to the mobile number field [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 21:01:883 INFO  SignupPage :159 - Click on create an account button : [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: (//button[@type='submit'])[1]]
+2024-01-02 21:01:918 INFO  SignupPage :162 - Getting text from account created [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //b[normalize-space()='Account Created!']]
+2024-01-02 21:01:99 INFO  PaymentPage :76 - Clicking on continue tab [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //a[normalize-space()='Continue']]
+2024-01-02 21:01:432 INFO  HomePage :133 - Getting text from Logged user[[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //li[10]//a[1]]
+2024-01-02 21:01:393 INFO  HomePage :122 - Clicking on delete account button [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //a[text()=' Delete Account']]
+2024-01-02 21:01:410 INFO  HomePage :125 - Getting text from account deleted [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //b[text()='Account Deleted!']]
+2024-01-02 21:01:854 INFO  HomePage :130 - Clicking on continue button [[ChromeDriver: chrome on windows (0e4ea49732509596206de2a1a58fb120)] -> xpath: //a[text()='Continue']]
+2024-01-02 21:01:495 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 21:01:840 INFO  ProductsPage :58 - Clicking on add to cart of sleeveless dress [[ChromeDriver: chrome on windows (03e76528a6ad4983a54aefd4c4b6a090)] -> xpath: //div[4]//div[1]//div[1]//div[2]//div[1]//a[1]]
+2024-01-02 21:01:156 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 21:01:663 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 21:01:130 INFO  HomePage :119 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 21:01:251 INFO  SignupLoginPage :52 - Sending name Veer to the name field [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 21:01:388 INFO  SignupLoginPage :56 - Sending email Veerputra@gmail.com to the email address field [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 21:01:753 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 21:01:909 INFO  SignupPage :88 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@value='Mrs']]
+2024-01-02 21:01:25 INFO  SignupPage :92 - Sending password VeeraP007 to the password field[[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@id='password']]
+2024-01-02 21:01:200 INFO  SignupPage :96 - Selecting day from dropdown [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //select[@id='days']]
+2024-01-02 21:01:386 INFO  SignupPage :100 - Selecting month from dropdown [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //select[@id='months']]
+2024-01-02 21:01:570 INFO  SignupPage :104 - Selecting year from dropdown [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //select[@id='years']]
+2024-01-02 21:01:700 INFO  SignupPage :116 - Sending first name Veera to the first name field [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@id='first_name']]
+2024-01-02 21:01:813 INFO  SignupPage :120 - Sending last name Patel to the last name field [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@id='last_name']]
+2024-01-02 21:01:980 INFO  SignupPage :124 - Sending  address1 30,Manekbaug chowkto the to the address1 field [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@id='address1']]
+2024-01-02 21:01:127 INFO  SignupPage :128 - Sending address2 Laldarwajato the address2 field [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@id='address2']]
+2024-01-02 21:01:262 INFO  SignupPage :132 - selecting country from dropdown [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //select[@id='country']]
+2024-01-02 21:01:398 INFO  SignupPage :136 - Sending state name Gujarat to the state field [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@id='state']]
+2024-01-02 21:01:545 INFO  SignupPage :140 - Sending city name Ahmedabad to the city field [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@id='city']]
+2024-01-02 21:01:678 INFO  SignupPage :144 - Sending zipcode number 380012 to the zipcode field [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@id='zipcode']]
+2024-01-02 21:01:817 INFO  SignupPage :148 - Sending mobile number 09725711222 to the mobile number field [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 21:01:18 INFO  SignupPage :158 - Click on create an account button : [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: (//button[@type='submit'])[1]]
+2024-01-02 21:01:57 INFO  SignupPage :161 - Getting text from account created [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //b[normalize-space()='Account Created!']]
+2024-01-02 21:01:200 INFO  PaymentPage :76 - Clicking on continue tab [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //a[normalize-space()='Continue']]
+2024-01-02 21:01:548 INFO  HomePage :134 - Getting text from Logged user[[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: //li[10]//a[1]]
+2024-01-02 21:01:809 INFO  ProductsPage :38 - Clicking on Blue top add to cart tab [[ChromeDriver: chrome on windows (8ca6a2d32821f345003b758f824036e5)] -> xpath: (//a[contains(text(),'Add to cart')])[1]]
+2024-01-02 22:01:995 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 22:01:148 INFO  HomePage :119 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 22:01:231 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 22:01:731 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 22:01:112 INFO  SignupLoginPage :56 - Sending email patelP@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 22:01:311 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 22:01:449 INFO  SignupPage :84 - Getting text from enter account info [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //b[text()='Enter Account Information']]
+2024-01-02 22:01:682 INFO  SignupPage :89 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@value='Mrs']]
+2024-01-02 22:01:932 INFO  SignupPage :93 - Sending password PatP20! to the password field[[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@id='password']]
+2024-01-02 22:01:133 INFO  SignupPage :97 - Selecting day from dropdown [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //select[@id='days']]
+2024-01-02 22:01:316 INFO  SignupPage :101 - Selecting month from dropdown [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //select[@id='months']]
+2024-01-02 22:01:546 INFO  SignupPage :105 - Selecting year from dropdown [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //select[@id='years']]
+2024-01-02 22:01:678 INFO  SignupPage :109 - Clicking on news letter box [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@id='newsletter']]
+2024-01-02 22:01:818 INFO  SignupPage :113 - Clicking on special offer box [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@id='optin']]
+2024-01-02 22:01:83 INFO  SignupPage :117 - Sending first name Priya to the first name field [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@id='first_name']]
+2024-01-02 22:01:413 INFO  SignupPage :121 - Sending last name Patel to the last name field [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@id='last_name']]
+2024-01-02 22:01:916 INFO  SignupPage :125 - Sending  address1 54,Shantinagar societyto the to the address1 field [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@id='address1']]
+2024-01-02 22:01:319 INFO  SignupPage :129 - Sending address2 Naranpurato the address2 field [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@id='address2']]
+2024-01-02 22:01:601 INFO  SignupPage :133 - selecting country from dropdown [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //select[@id='country']]
+2024-01-02 22:01:956 INFO  SignupPage :137 - Sending state name Gujarat to the state field [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@id='state']]
+2024-01-02 22:01:349 INFO  SignupPage :141 - Sending city name Ahmedabad to the city field [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@id='city']]
+2024-01-02 22:01:651 INFO  SignupPage :145 - Sending zipcode number 380013 to the zipcode field [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@id='zipcode']]
+2024-01-02 22:01:52 INFO  SignupPage :149 - Sending mobile number 09886611144 to the mobile number field [[ChromeDriver: chrome on windows (da3dee4c283c5c19dfdccae173b1e4aa)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 22:01:367 INFO  HomePage :70 - Verifying homepage Url
+2024-01-02 22:01:187 INFO  HomePage :119 - Clicking on signup/LoginTab tab [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //a[text()=' Signup / Login']]
+2024-01-02 22:01:235 INFO  SignupLoginPage :47 - Getting text from New user signup [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //h2[text()='New User Signup!']]
+2024-01-02 22:01:517 INFO  SignupLoginPage :52 - Sending name Priya to the name field [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@data-qa='signup-name']]
+2024-01-02 22:01:748 INFO  SignupLoginPage :56 - Sending email patelP@yahoo.co.in to the email address field [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 22:01:426 INFO  SignupLoginPage :60 - Clicking on signup button [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //button[@data-qa='signup-button']]
+2024-01-02 22:01:475 INFO  SignupPage :84 - Getting text from enter account info [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //b[text()='Enter Account Information']]
+2024-01-02 22:01:628 INFO  SignupPage :89 - Clicking on Mrs radio button [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@value='Mrs']]
+2024-01-02 22:01:838 INFO  SignupPage :93 - Sending password PatP20! to the password field[[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@id='password']]
+2024-01-02 22:01:209 INFO  SignupPage :97 - Selecting day from dropdown [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //select[@id='days']]
+2024-01-02 22:01:608 INFO  SignupPage :101 - Selecting month from dropdown [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //select[@id='months']]
+2024-01-02 22:01:945 INFO  SignupPage :105 - Selecting year from dropdown [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //select[@id='years']]
+2024-01-02 22:01:144 INFO  SignupPage :109 - Clicking on news letter box [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@id='newsletter']]
+2024-01-02 22:01:355 INFO  SignupPage :113 - Clicking on special offer box [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@id='optin']]
+2024-01-02 22:01:662 INFO  SignupPage :117 - Sending first name Priya to the first name field [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@id='first_name']]
+2024-01-02 22:01:09 INFO  SignupPage :121 - Sending last name Patel to the last name field [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@id='last_name']]
+2024-01-02 22:01:548 INFO  SignupPage :125 - Sending  address1 54,Shantinagar societyto the to the address1 field [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@id='address1']]
+2024-01-02 22:01:970 INFO  SignupPage :129 - Sending address2 Naranpurato the address2 field [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@id='address2']]
+2024-01-02 22:01:245 INFO  SignupPage :133 - selecting country from dropdown [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //select[@id='country']]
+2024-01-02 22:01:613 INFO  SignupPage :137 - Sending state name Gujarat to the state field [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@id='state']]
+2024-01-02 22:01:974 INFO  SignupPage :141 - Sending city name Ahmedabad to the city field [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@id='city']]
+2024-01-02 22:01:282 INFO  SignupPage :145 - Sending zipcode number 380013 to the zipcode field [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@id='zipcode']]
+2024-01-02 22:01:674 INFO  SignupPage :149 - Sending mobile number 09886611144 to the mobile number field [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //input[@id='mobile_number']]
+2024-01-02 22:01:713 INFO  SignupPage :159 - Click on create an account button : [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //button[contains(text(),'Create Account')]]
+2024-01-02 22:01:774 INFO  SignupPage :162 - Getting text from account created [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //b[normalize-space()='Account Created!']]
+2024-01-02 22:01:79 INFO  PaymentPage :76 - Clicking on continue tab [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //a[normalize-space()='Continue']]
+2024-01-02 22:01:310 INFO  HomePage :134 - Getting text from Logged user[[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //li[10]//a[1]]
+2024-01-02 22:01:992 INFO  HomePage :123 - Clicking on delete account button [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //a[text()=' Delete Account']]
+2024-01-02 22:01:29 INFO  HomePage :126 - Getting text from account deleted [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //b[text()='Account Deleted!']]
+2024-01-02 22:01:467 INFO  HomePage :131 - Clicking on continue button [[ChromeDriver: chrome on windows (0bfb3799ede4c407c307bc4f86afc8f7)] -> xpath: //a[text()='Continue']]
